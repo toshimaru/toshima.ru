@@ -1,7 +1,4 @@
-## About Me
-
-See [here](http://toshimaru.net/about/)
-
+# About Me
 
 ## TODO
 * Update Pure
