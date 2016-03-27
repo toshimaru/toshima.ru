@@ -1,4 +1,0 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
-
-* toshi<me@toshimaru.net> - toshimaru.net
