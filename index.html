@@ -21,6 +21,8 @@
   })(window,document,'script','dataLayer','GTM-M4SVLX');</script>
   <!-- End Google Tag Manager -->
 
+  <div id="particles-js"></div>
+
   <!--MDL markup -->
   <div class="introduction mdl-typography--text-center">
     <div class="myname"><img src="./img/pic.jpg">Toshimaru</div>
@@ -157,6 +159,12 @@
   </div>
 
   <script defer src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <script type="text/javascript">
+particlesJS.load('particles-js', './assets/particles.json', function() {
+  console.log('callback - particles.js config loaded');
+});
+  </script>
   <!-- End MDL markup -->
 </body>
 </html>
