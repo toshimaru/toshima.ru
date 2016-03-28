@@ -3,6 +3,7 @@
   position: relative;
   height: 400px;
   width: auto;
+  background-color: rgba(0, 0, 0, 0.6);
 }
 .myname {
   font-size: 50px;
